@@ -21,6 +21,22 @@ More details are available in:
 - [Cost Considerations](deployment-notes/cost-considerations.md)
 - [Troubleshooting Notes](deployment-notes/troubleshooting.md)
 
+
+## Screenshots
+
+### Architecture Diagram
+![Architecture Diagram](screenshots/01-architecture-diagram.png)
+
+### HTTPS Domain Working
+![HTTPS Domain Working](screenshots/02-https-domain-working.png)
+
+### Target Group and Auto Scaling
+![Auto Scaling Group](screenshots/08-asg-instances-running.png)
+
+### CloudWatch Monitoring
+![CloudWatch Monitoring](screenshots/11-alb-monitoring-metrics.png)
+
+
 ## Live Website
 
 - Domain: `https://debnath.click`
