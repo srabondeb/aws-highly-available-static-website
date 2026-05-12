@@ -8,6 +8,19 @@ The website is hosted on EC2 instances running Apache. An Application Load Balan
 
 The goal of this project is to demonstrate practical cloud infrastructure skills for entry-level cloud engineering, cloud support, and cloud operations roles.
 
+
+## Architecture Diagram
+
+![Architecture Diagram](architecture/architecture-diagram.png)
+
+More details are available in:
+
+- [Architecture Notes](architecture/architecture-notes.md)
+- [Deployment Summary](deployment-notes/01-deployment-summary.md)
+- [Security Notes](deployment-notes/security-notes.md)
+- [Cost Considerations](deployment-notes/cost-considerations.md)
+- [Troubleshooting Notes](deployment-notes/troubleshooting.md)
+
 ## Live Website
 
 - Domain: `https://debnath.click`
